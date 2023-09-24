@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e93c539d-f001-4fba-b8d4-3d04dcc9efd5/deploy-status)](https://app.netlify.com/sites/confident-gates-1fffed/deploys)
-
 # Practical Blockchain
 
 ## Description
