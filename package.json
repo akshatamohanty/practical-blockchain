@@ -4,6 +4,7 @@
   "description": "Homepage for Practical Blockchain community. ",
   "main": "index.js",
   "scripts": {
+    "dev": "light-server -s dist -p 7000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -13,5 +14,11 @@
     "zkproofs"
   ],
   "author": "iamaatoh",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.9.4"
+  },
+  "devDependencies": {
+    "light-server": "^2.9.1"
+  }
 }
