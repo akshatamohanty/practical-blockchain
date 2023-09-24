@@ -1,0 +1,17 @@
+{
+  "name": "practicalblockchain",
+  "version": "1.0.0",
+  "description": "Homepage for Practical Blockchain community. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "community",
+    "solidity",
+    "zkproofs"
+  ],
+  "author": "iamaatoh",
+  "license": "MIT"
+}
