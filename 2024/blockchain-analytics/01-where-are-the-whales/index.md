@@ -11,7 +11,7 @@
     <script src="./00-blockchain-exploration/walletData.js"></script>
     <script src="./01-building-a-tracker/currentWalletData.js"></script>
     <script src="./00-blockchain-exploration/treemap.js"></script>
-    <script src="./01-building-a-tracker/treemap-inactive.js"></script>
+    <script src="./01-building-a-tracker/treemapInactive.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">

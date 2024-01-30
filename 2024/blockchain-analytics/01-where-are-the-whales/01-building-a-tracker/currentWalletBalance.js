@@ -2,7 +2,6 @@ const walletData = require("../00-blockchain-exploration/sorted-wallets.json");
 const fs = require("fs");
 const { ethers } = require("ethers");
 
-// Initialize a JSON-RPC provider (you can use Infura, Alchemy, or your own Ethereum node URL)
 const provider = new ethers.JsonRpcProvider("https://cloudflare-eth.com");
 
 const getDurationInMilliseconds = (start) => {
