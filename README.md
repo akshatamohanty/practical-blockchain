@@ -4,17 +4,9 @@
 
 Hi! 👋 Welcome to Practical Blockchain.
 
-We are a community of blockchain and applied cryptography enthusiasts and builders.👷
+We are a community of blockchain and applied cryptography builders.👷
 
-Practical Blockchain is is an exploration platform and a neutral stage. We come together to share and play around with a diverse range of crypto projects, to learn by inquiry and healthy debate. The purpose is to cover the whole spectrum - from reviewing research to building practical applications - all while having fun!
-
-## Speaker Interest Form
-
-Interested in sharing your project? Email me at `iamaatoh@gmail.com`
-
-## Telegram Group
-
-Coming Soon! ⏰
+Practical Blockchain is is an exploration platform. It is a neutral stage where we come together explore a diverse range of crypto projects. We learn by inquiry and healthy debate. The purpose is to cover the whole spectrum - from reviewing research to building practical applications , all while having fun!
 
 # Events
 
@@ -30,3 +22,12 @@ Coming Soon! ⏰
 | 2   | [Solidity Saturday #3](https://www.meetup.com/practical-blockchain/events/283005417/)                                     | 2022-01-08 |
 | 1   | [Solidity Saturday #2](https://www.meetup.com/practical-blockchain/events/282521052/)                                     | 2021-12-11 |
 | 0   | [Solidity Saturday #1](https://www.meetup.com/practical-blockchain/events/282163424/)                                     | 2021-11-27 |
+
+## Join us
+
+[Meetup](https://www.meetup.com/practical-blockchain/)
+[Telegram](https://t.me/+ekVZbpgv-gphNTE1)
+
+## Collaborations
+
+Interested in sharing your project? Email me at `iamaatoh@gmail.com`
