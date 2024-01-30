@@ -18,9 +18,9 @@ Coming Soon! ⏰
 
 # Events
 
-| #   | Event                                                                                                                     | Date       | Code                                |
-| --- | ------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------- |
-| 9   | [Blockchain Analytics on the Cloud 🔍 ☁️](https://www.meetup.com/practical-blockchain/events/298446756/)                  | 2024-01-31 | [Code](/2024/blockchain-analytics/) |
+| #   | Event                                                                                                                     | Date       |
+| --- | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 9   | [Blockchain Analytics on the Cloud 🔍 ☁️](/2024/blockchain-analytics/)                                                    | 2024-01-31 |
 | 8   | [Programmable Privacy for Developers Workshop](https://www.meetup.com/practical-blockchain/events/296418982/)             | 2023-10-19 |
 | 7   | [Oracles 101: What are oracles and how to work with them?](https://www.meetup.com/practical-blockchain/events/289962866/) | 2022-12-10 |
 | 6   | [Solidity Saturday #4: Mulitsig Wallets](https://www.meetup.com/practical-blockchain/events/286734006/)                   | 2022-07-09 |
