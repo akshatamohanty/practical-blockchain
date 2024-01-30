@@ -1,6 +1,6 @@
 ---
 Date: 2024-01-31
-Link: [Link](https://www.meetup.com/practical-blockchain/events/298446756/)
+Link: https://www.meetup.com/practical-blockchain/events/298446756/
 ---
 
 # Blockchain Analytics on the Cloud
