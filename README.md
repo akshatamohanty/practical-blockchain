@@ -16,7 +16,7 @@ Interested in sharing your project? Email me at `iamaatoh@gmail.com`
 
 Coming Soon! ⏰
 
-### Events
+# Events
 
 | #   | Event                                                                                                                     | Date       | Code | Slides | Recording |
 | --- | ------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- | ------ | --------- |
