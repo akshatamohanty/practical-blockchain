@@ -1,0 +1,22 @@
+[
+    {
+      "wallet": "ec5feafe210c12bfc9a5d05925a123f1e73fbef8",
+      "initValue": 456000,
+      "newValue": "45676.10325736867578888"
+    },
+    {
+      "wallet": "7f3a1e45f67e92c880e573b43379d71ee089db54",
+      "initValue": 99999.99999999999,
+      "newValue": "45497.579860692947644167"
+    },
+    {
+      "wallet": "d64a2d50f8858537188a24e0f50df1681ab07ed7",
+      "initValue": 38799.99999999999,
+      "newValue": "20002.03317301"
+    },
+    {
+      "wallet": "198ef1ec325a96cc354c7266a038be8b5c558f67",
+      "initValue": 608334.7239999999,
+      "newValue": "0.021"
+    }
+  ]
