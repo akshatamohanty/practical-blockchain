@@ -5,10 +5,10 @@ async function getBlock(nodeUrl) {
     // Connect to the Ethereum node
     const provider = new ethers.JsonRpcProvider(nodeUrl);
 
-    const blockNumber = await provider.getBlockNumber(); // Also, with 0
+    const blockNumber = 0;
     // Fetch the block
     const block = await provider.getBlock(blockNumber);
-
+    console.log(`Block ${block}`, block);
     if (block && block.transactions) {
       // Process and display the transactions
       console.log(

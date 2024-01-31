@@ -38,7 +38,7 @@ async function main() {
     });
   }
 
-  fs.writeFileSync("./currentBalances.json", JSON.stringify(results), "utf8");
+  // fs.writeFileSync("./currentBalances.json", JSON.stringify(results), "utf8");
 
   // Notes
   // [CLOSED] 33,690.771 ms for 50 wallet addresses
