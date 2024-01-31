@@ -25,8 +25,8 @@ Practical Blockchain is is an exploration platform. It is a neutral stage where 
 
 ## Join us
 
-[Meetup](https://www.meetup.com/practical-blockchain/)
-[Telegram](https://t.me/+ekVZbpgv-gphNTE1)
+- [Meetup](https://www.meetup.com/practical-blockchain/)
+- [Telegram](https://t.me/+ekVZbpgv-gphNTE1)
 
 ## Collaborations
 
