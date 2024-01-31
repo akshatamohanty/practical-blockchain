@@ -1,6 +1,6 @@
-const walletData = require("../00-blockchain-exploration/sorted-wallets.json");
 const fs = require("fs");
 const { ethers } = require("ethers");
+const walletData = require("../00-blockchain-exploration/sortedWallets.json");
 
 const provider = new ethers.JsonRpcProvider("https://cloudflare-eth.com");
 
