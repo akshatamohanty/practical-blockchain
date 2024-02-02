@@ -5,6 +5,8 @@ Link: https://www.meetup.com/practical-blockchain/events/298446756/
 
 # Blockchain Analytics on the Cloud
 
+[![Group Photo](./ba-on-cloud.jpeg)](./ba-on-cloud.jpeg)
+
 ## Description & Agenda
 
 Are you curious about blockchain analytics and harnessing the power of the cloud for working with blockchain data? How does blockchain really work, how to navigate the intricacies of blockchain transactions, and how to leverage cloud tools for a deeper understanding of blockchain events? 🤔💼☁️
