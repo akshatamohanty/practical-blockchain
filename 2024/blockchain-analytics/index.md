@@ -25,5 +25,5 @@ Whether you're a blockchain enthusiast, a data analyst, or a curious technologis
 
 ## Slides, Notes, Code & Resources
 
-- [Blockchain Analytics at Nansen: Four Years of Nansen's Journey](./00-nansen-journey)
-- [Finding the Genesis Block: My first forays into working with blockchain data](http://iamaatoh.com/finding-the-genesis-block/)
+- [Blockchain Analytics at Nansen: Four Years of Nansen's Journey](https://pitch.com/v/onchain-analytics-at-nansen-t297v3/10ff0cbc-8677-4920-9e1b-3102b6e4c8f8)
+- [Finding the Genesis Block: My first forays into working with blockchain data](https://docs.google.com/presentation/d/e/2PACX-1vQR9TfzoqiJkvLjwMuQL6tXcZoj2hpVS7IIya14LXmsBDO-WYX04iE1ifuDBEnrAt2PVWThhJqd310h/pub?start=false&loop=false&delayms=3000)
