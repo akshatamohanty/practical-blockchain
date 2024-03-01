@@ -12,6 +12,7 @@ Practical Blockchain is is an exploration platform. It is a neutral stage where 
 
 | #   | Event                                                                                                                     | Date       |
 | --- | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 10  | [Smart Contract and Blockchain Security](/2024/blockchain-security/)                                                      | 2024-02-29 |
 | 9   | [Blockchain Analytics on the Cloud 🔍 ☁️](/2024/blockchain-analytics/)                                                    | 2024-01-31 |
 | 8   | [Programmable Privacy for Developers Workshop](https://www.meetup.com/practical-blockchain/events/296418982/)             | 2023-10-19 |
 | 7   | [Oracles 101: What are oracles and how to work with them?](https://www.meetup.com/practical-blockchain/events/289962866/) | 2022-12-10 |
