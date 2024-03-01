@@ -22,4 +22,4 @@ Whether you are a developer, a blockchain enthusiast, or simply curious about sm
 
 ## Slides, Notes, Code & Resources
 
-To be updated
+[![Slides](./slides.pdf)](./slides.pdf)
